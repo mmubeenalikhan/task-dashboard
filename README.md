@@ -17,8 +17,8 @@ To run the application, follow these steps:
 1. **Clone the repository:**
 
 ```sh
-  git clone https://github.com/mmubeenalikhan/task-dashboard.git
-  cd task-dashboard
+  git clone https://github.com/mmubeenalikhan/task-management-api.git
+  cd task-management-api
 ```
 
 2. **Install dependencies:**
